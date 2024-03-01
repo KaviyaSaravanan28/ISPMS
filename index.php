@@ -111,6 +111,18 @@ $(document).ready(function(){
 						</div>
 					</div>
 				</li>
+				<li>
+					<div class="w3layouts-banner-top w3layouts-banner-top3">
+						<div class="container">
+							<div class="agileits-banner-info">
+								<a href="chat.html"><h3>chat</h3>
+								<p>Semper neque amet sit euismod.</p>
+
+							</div>
+
+						</div>
+					</div>
+				</li>
 
 			</ul>
 		</div>
